@@ -1,7 +1,7 @@
 # msds-practicum-two
 MS Data Science Practicum project 
 # Log
-**5/3/2024 8:30AM-**
+**5/3/2024 8:30AM-10:15AM**
 - created new repo called msds-practicum-two
 - added scripts needed for work
 - created folder bin to contain uncompressed exe files
