@@ -1,6 +1,14 @@
 # msds-practicum-two
 MS Data Science Practicum project 
 # Log
+**5/4/2024 1:30PM-2:30PM**
+- created Jupiter NB HashSet, to verify unique file data set
+- Saved successful results to csv files, combined_exes_hashes and combined_exes
+- created data folder for exe files
+## TODO
+- Update mt_util to support argparse
+- Update mt_util to process bulk imaging
+
 **5/3/2024 8:30AM-10:15AM**
 - created new repo called msds-practicum-two
 - added scripts needed for work
