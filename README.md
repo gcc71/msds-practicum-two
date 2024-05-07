@@ -1,5 +1,14 @@
 # msds-practicum-two
 MS Data Science Practicum project 
+
+# Log
+**5/7/2024 8:30AM-10:30AM**
+- pushed updated mt_util
+## TODO
+- process image dataset
+- update JNB with verification of hashes for images
+
+
 # Log
 **5/4/2024 1:30PM-2:30PM**
 - created Jupiter NB HashSet, to verify unique file data set
