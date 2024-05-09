@@ -1,5 +1,13 @@
 # msds-practicum-two
-MS Data Science Practicum project 
+MS Data Science Practicum project
+
+# Log
+**5/9/2024 8:22AM-9:12AM**
+- verified all files contain a unique hash (exe and png)
+- created data set usb
+## TODO
+- move to ML machine
+- verfiy folder structure with the Dog v Cat classes data streamer
 
 # Log
 **5/7/2024 8:30AM-10:30AM**
