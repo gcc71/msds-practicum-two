@@ -1,6 +1,16 @@
 # msds-practicum-two
 MS Data Science Practicum project
-
+# Log
+**5/10/2024 9:04AM-9:37AM**
+- created several notebooks: Exp01, Exp02, 
+- initial runs of simple model gave very accurate results
+- saved model cfiles_and_bfiles_base_augment_r0.h5 as best
+- experimented with no augmentation settings and no augmentation with same results 1.0 
+## TODO
+- create new data set for testing with same model to verify results
+- may need to update data synthesizer to include compression indicator in file name for greater certainity of accurate data sets since files are indistiguishable to the human eye
+- experiment with sys32 and syswow64 data sets as a test of "real data"
+- experiment with data synthesis for benign exe and malware indicators as opposed to compression with upx or combination of both perhaps two models 1 for upx indication and 1 for malware indicator
 # Log
 **5/9/2024 8:22AM-9:12AM**
 - verified all files contain a unique hash (exe and png)
